@@ -1,0 +1,1 @@
+    user_message = request.json.get("message")
